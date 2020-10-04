@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: sandipan
-Version: 0.0.8
+Version: 0.0.9
 Summary: Take it Easy; Make it Easy;
 Home-page: https://sandipan.ml
 Author: Sandipan Roy
@@ -31,11 +31,11 @@ Description: THIS IS MY SHORT BIODATA.
         
         Email: sandipan@parrotsec.org or me@sandipan.ml
         
-        Twitter: httpa://twitter.com/bytehackr
+        Twitter: https://twitter.com/bytehackr
         
-        Linkedin: httpa://linkedin/in/bytehackr
+        Linkedin: https://linkedin/in/bytehackr
         
-        Instagram: httpa://instagram.com/bytehackr
+        Instagram: https://instagram.com/bytehackr
         
 Platform: UNKNOWN
 Classifier: Development Status :: 4 - Beta
