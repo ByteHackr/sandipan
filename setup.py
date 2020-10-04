@@ -10,7 +10,7 @@ setuptools.setup(
     name='sandipan',
     license="MIT",
     description='Take it Easy; Make it Easy;',
-    version='v0.0.9',
+    version='v0.0.10',
     long_description=README,
     url='https://sandipan.ml',
     packages=setuptools.find_packages(),

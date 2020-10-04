@@ -25,6 +25,6 @@ Email: sandipan@parrotsec.org or me@sandipan.ml
 
 Twitter: https://twitter.com/bytehackr
 
-Linkedin: https://linkedin/in/bytehackr
+Linkedin: https://linkedin.com/in/bytehackr
 
 Instagram: https://instagram.com/bytehackr
