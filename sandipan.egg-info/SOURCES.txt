@@ -1,0 +1,7 @@
+README.md
+setup.py
+sandipan.egg-info/PKG-INFO
+sandipan.egg-info/SOURCES.txt
+sandipan.egg-info/dependency_links.txt
+sandipan.egg-info/requires.txt
+sandipan.egg-info/top_level.txt
