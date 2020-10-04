@@ -12,7 +12,7 @@ setuptools.setup(
     description='Take it Easy; Make it Easy;',
     version='v0.0.3',
     long_description=README,
-    url='https://github.com/bytehackr/sandipan',
+    url='https://sandipan.ml',
     packages=setuptools.find_packages(),
     python_requires=">=3.5",
     install_requires=['requests'],

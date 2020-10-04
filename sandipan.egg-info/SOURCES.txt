@@ -1,5 +1,9 @@
+MANIFEST.in
 README.md
 setup.py
+sandipan/__init__.py
+sandipan/__main__.py
+sandipan/me.py
 sandipan.egg-info/PKG-INFO
 sandipan.egg-info/SOURCES.txt
 sandipan.egg-info/dependency_links.txt
